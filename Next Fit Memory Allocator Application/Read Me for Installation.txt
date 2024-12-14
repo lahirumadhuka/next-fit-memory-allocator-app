@@ -1,0 +1,7 @@
+-------------------------- Read Me for Installation ------------------------------
+
+Download both files from GIT
+
+1. NextFit.py is the Python script that can be run through an IDE.
+
+2. NextFit.exe is the executable file that can be run directly.
